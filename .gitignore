@@ -1,0 +1,12 @@
+Team*.zip
+*.pem
+*.ppk
+*.crt
+*.key
+*.ovpn
+node_modules/
+venv/
+**/__pycache__/
+**/db.sqlite3
+*.pdf
+db.sqlite3
